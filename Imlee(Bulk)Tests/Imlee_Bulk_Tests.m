@@ -2,8 +2,8 @@
 //  Imlee_Bulk_Tests.m
 //  Imlee(Bulk)Tests
 //
-//  Created by Devarshi on 8/9/13.
-//  Copyright (c) 2013 DaemonConstruction. All rights reserved.
+//  Created byDevarshi (kulshreshtha.devarshi@gmail.com) on 8/9/13.
+//  Copyright (c) 2013 Devarshi Kulshreshtha. All rights reserved.
 //
 
 #import "Imlee_Bulk_Tests.h"
